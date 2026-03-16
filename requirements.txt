@@ -9,3 +9,4 @@ langsmith
 chromadb
 pypdf
 python-dotenv
+jinja2
